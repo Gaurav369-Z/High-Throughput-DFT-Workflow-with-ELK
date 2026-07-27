@@ -50,3 +50,8 @@ Band Structure Calculation
 - Phonon calculation
 - Automatic k-point generation
 - Automatic convergence calculations
+---
+
+## Lincense
+
+MIT Lincense
