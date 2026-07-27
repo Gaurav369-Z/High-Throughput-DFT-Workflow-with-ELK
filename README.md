@@ -54,4 +54,4 @@ Band Structure Calculation
 
 ## Lincense
 
-MIT Lincense
+MIT License
